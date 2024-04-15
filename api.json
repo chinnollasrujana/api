@@ -1,0 +1,16 @@
+[
+    {
+      "_id": "test",
+      "news": [
+        {
+          "id": 1,
+          "title": "test",
+          "description": " test2",
+          "source": "Test",
+          "publishedDate": "",
+          "newsCategory": "test"
+        }
+        
+      ]
+    }
+  ]
