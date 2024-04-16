@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^17.22.1",
+    "serverless-http": "^3.2.0"
+  }
 }
